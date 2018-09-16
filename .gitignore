@@ -25,3 +25,4 @@ yarn-error.log*
 **/Fonts/*.js
 **/Svgs/*.view
 **/Images/*.view
+src/index-viewstools.js
